@@ -10,3 +10,7 @@
 Skills: keras, scikitlearn, pandas, numpy, google colab, neural networks
 
 dataset: http://archive.ics.uci.edu/ml/datasets/Occupancy+Detection+
+
+**Training**: datatraining.csv  
+**Validation**: datatest.csv  
+**Testing**: datatest2.csv
