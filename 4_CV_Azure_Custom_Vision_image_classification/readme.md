@@ -15,8 +15,8 @@ Fit the model into a python workflow/pipeline
 For production, we created a python application command line UI  
   
   
-Data preprocessing:preprocessing.ipynb 
+Data preprocessing: preprocessing.ipynb  
 Python application: model.py  
-Dataset: birds folder
+Dataset: birds folder  
 Preprocessed dataset: train folder
 
