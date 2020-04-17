@@ -2,15 +2,21 @@
 We train a CV model using birds images and use it to identify other birds in production.  
 Grade A / Test score: 80%  
   
-Data preprocessing:  
+**Data preprocessing**:  
 Organising birds images by its individual type and storing it in separation folders to facilitate cloud upload.  
 Use data manipulation techniques, such as greyscale, rotate images, contour to improve model performance.  
   
-Training model:  
+**Training model**:  
 Create an MS Azure account(if you haven't)  
 Upload images into Azure custom vision and train model  
 
-Python application:  
+**Python application**:  
 Fit the model into a python workflow/pipeline  
 For production, we created a python application command line UI  
+  
+  
+Data preprocessing:preprocessing.ipynb 
+Python application: model.py  
+Dataset: birds folder
+Preprocessed dataset: train folder
 
