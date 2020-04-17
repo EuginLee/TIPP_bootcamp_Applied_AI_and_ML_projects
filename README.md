@@ -2,7 +2,9 @@
 Depository for all Applied AI and ML project completed  during the course
 
 I attended a 3 month intensive full-time bootcamp on data science and applied artificial intelligence course 
-conducted by Republic Polytechnic through a tech immmersive and placement programme (TIPP).
+conducted by Republic Polytechnic through a tech immmersive and placement programme (TIPP).  
+  
+Programme outline: https://www.rp.edu.sg/ace/short-course/Detail/tipp-applied-artificial-intelligence  
   
   
 | No.  |Data Science Technique   | Description   |Result/Score   |
